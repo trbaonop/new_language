@@ -1,0 +1,7 @@
+opencv-python==4.1.0.25
+numpy
+pygame
+tensorflow 
+gradio
+pillow
+sk-65467b91f3264a2182795ff90383f4c9

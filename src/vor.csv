@@ -1,0 +1,101 @@
+lesson_id,word,meaning,example
+1,"cha (bố)","father","Bố tôi là một kỹ sư. (My father is an engineer.)"
+1,"mẹ","mother","Mẹ tôi nấu ăn rất ngon. (My mother cooks very well.)"
+1,"anh trai","older brother","Tôi có một anh trai lớn hơn tôi ba tuổi. (I have an older brother who is three years older than me.)"
+1,"chị gái","older sister",
+1,"em trai","younger brother",
+1,"em gái","younger sister",
+1,"ông nội","paternal grandfather",
+1,"bà nội","paternal grandmother",
+1,"ông ngoại","maternal grandfather",
+1,"bà ngoại","maternal grandmother",
+2,"trường học","school","Tôi thích đi học vì tôi gặp bạn bè ở trường. (I like going to school because I meet friends there.)"
+2,"giáo viên","teacher","Giáo viên của tôi rất thân thiện. (My teacher is very friendly.)"
+2,"học sinh","student",
+2,"bài tập","homework","Hôm nay chúng tôi có rất nhiều bài tập về nhà. (Today we have a lot of homework.)"
+2,"bảng","board",
+2,"sách giáo khoa","textbook",
+2,"bút chì","pencil",
+2,"bút mực","pen",
+2,"vở","notebook",
+2,"lớp học","classroom",
+3,"công việc","job","Tôi làm việc ở một công ty công nghệ. (I work at a technology company.)"
+3,"công ty","company",
+3,"văn phòng","office",
+3,"sếp","boss",
+3,"đồng nghiệp","colleague",
+3,"họp","meeting","Sáng nay chúng tôi có một cuộc họp quan trọng. (We have an important meeting this morning.)"
+3,"dự án","project",
+3,"báo cáo","report",
+3,"tăng lương","raise","Tôi hy vọng sẽ được tăng lương vào cuối năm. (I hope to get a raise at the end of the year.)"
+3,"thăng chức","promotion",
+4,"xin chào","hello","Xin chào! Bạn khỏe không? (Hello! How are you?)"
+4,"tạm biệt","goodbye",
+4,"cảm ơn","thank you","Cảm ơn bạn đã giúp tôi! (Thank you for helping me!)"
+4,"xin lỗi","sorry","Xin lỗi, tôi đến trễ. (Sorry, I'm late.)"
+4,"vui lòng","please",
+4,"được","yes",
+4,"không","no",
+4,"bạn khỏe không?","how are you?",
+4,"tôi ổn","I’m fine",
+4,"gặp lại sau","see you later",
+5,"máy bay","airplane","Tôi đã đặt vé máy bay đến Hà Nội. (I booked a plane ticket to Hanoi.)"
+5,"sân bay","airport",
+5,"khách sạn","hotel","Chúng tôi sẽ ở trong một khách sạn gần bãi biển. (We will stay in a hotel near the beach.)"
+5,"hộ chiếu","passport",
+5,"bản đồ","map",
+5,"hướng dẫn viên","tour guide",
+5,"đặt vé","book a ticket",
+5,"xe buýt","bus",
+5,"tàu hỏa","train","Bạn có thể chỉ đường cho tôi không? (Can you show me the way?)"
+5,"nhà hàng","restaurant",
+6,"cơm","rice",
+6,"phở","pho","Tôi thích ăn phở vào buổi sáng. (I like eating pho in the morning.)"
+6,"bún","vermicelli",
+6,"thịt gà","chicken",
+6,"thịt bò","beef",
+6,"cá","fish",
+6,"rau","vegetables",
+6,"trái cây","fruit",
+6,"nước ép","juice",
+6,"cà phê","coffee","Một ly cà phê sữa đá, làm ơn. (A glass of iced milk coffee, please.)"
+7,"xe đạp","bicycle",
+7,"xe máy","motorbike","Tôi đi làm bằng xe máy mỗi ngày. (I go to work by motorbike every day.)"
+7,"ô tô","car",
+7,"xe buýt","bus",
+7,"tàu hỏa","train","Chúng tôi sẽ đi tàu hỏa đến Sapa. (We will take a train to Sapa.)"
+7,"máy bay","airplane",
+7,"tàu thủy","ship",
+7,"đi bộ","walk",
+7,"bến xe","bus station",
+7,"ga tàu","train station",
+8,"nắng","sunny","Hôm nay trời rất nắng. (It is very sunny today.)"
+8,"mưa","rainy",
+8,"gió","windy",
+8,"tuyết","snow",
+8,"ấm áp","warm",
+8,"lạnh","cold","Ở đây rất lạnh vào mùa đông. (It is very cold here in winter.)"
+8,"mùa xuân","spring",
+8,"mùa hè","summer",
+8,"mùa thu","autumn",
+8,"mùa đông","winter","Tôi thích mùa đông vì tôi có thể ngắm tuyết rơi. (I like winter because I can watch the snow fall.)"
+9,"đau đầu","headache","Tôi bị sốt và đau đầu. (I have a fever and a headache.)"
+9,"sốt","fever",
+9,"cảm cúm","flu",
+9,"đau bụng","stomachache",
+9,"bác sĩ","doctor","Bạn nên uống thuốc và nghỉ ngơi. (You should take medicine and rest.)"
+9,"y tá","nurse",
+9,"thuốc","medicine",
+9,"bệnh viện","hospital",
+9,"khỏe mạnh","healthy",
+9,"tập thể dục","exercise","Tập thể dục mỗi ngày giúp cơ thể khỏe mạnh. (Exercising every day keeps the body healthy.)"
+10,"hôm nay","today","Hôm nay là thứ hai. (Today is Monday.)"
+10,"ngày mai","tomorrow",
+10,"hôm qua","yesterday",
+10,"buổi sáng","morning",
+10,"buổi trưa","noon",
+10,"buổi chiều","afternoon","Tôi sẽ gặp bạn vào buổi chiều. (I will meet you in the afternoon.)"
+10,"buổi tối","evening",
+10,"giờ","hour",
+10,"phút","minute",
+10,"giây","second","Chúng ta chỉ còn năm phút nữa. (We only have five minutes left.)"
